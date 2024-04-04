@@ -1,0 +1,57 @@
+.footer-wrapper {
+  background-color: #461a0f;
+  margin-top: 4rem;
+  height: 420px;
+
+  .vertical-text {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
+
+    .icon-footer {
+      color: #fff;
+      display: flex;
+      margin-left: 4px;
+      margin-bottom: 1rem;
+    }
+    .icon-footer > * {
+      cursor: pointer;
+      margin-right: 10px; /* Atur jarak horizontal di antara icon */
+    }
+  }
+
+  .vertical-text a,
+  p {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem; /* Memberikan padding agar teks terlihat lebih jelas dan berjarak */
+  }
+  .footer-line {
+    border-top: 1.5px solid #fff;
+    width: 80%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .footer-copyright {
+    color: #fff;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    margin-left: 180px;
+
+    .footer-logo {
+      margin-left: 22rem;
+    }
+
+    .footer-logo img {
+      width: 80px;
+      margin-left: 15px; // Memberikan jarak antar kedua gambar
+    }
+  }
+  .footer-copyright p {
+    margin-bottom: 1px;
+    margin-left: 10px; // Memberikan jarak antara icon dan teks
+  }
+}

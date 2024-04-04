@@ -1,0 +1,50 @@
+.breadcrumb-item a {
+  text-decoration: none;
+  color: #461a0f;
+}
+
+.btn-quantity,
+.btn-quantity:hover,
+.btn-quantity:active {
+  background-color: #461a0f;
+  border-color: #461a0f;
+  justify-content: center;
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+  font-size: 12px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.btn-quantity:hover {
+  background-color: #461a0f;
+  border-color: #461a0f;
+}
+
+.btn-quantity:active {
+  background-color: #461a0f !important;
+  border-color: #461a0f !important;
+}
+
+.btn-chart-pd,
+.btn-chart-pd:hover,
+.btn-chart-pd:active {
+  background-color: #e42a2a;
+  border-color: #e42a2a;
+  justify-content: center;
+  border-radius: 20px;
+  width: 200px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.btn-chart-pd:hover {
+  background-color: #ff3636;
+  border-color: #ff3636;
+}
+
+.btn-chart-pd:active {
+  background-color: #e42a2a !important;
+  border-color: #e42a2a !important;
+}

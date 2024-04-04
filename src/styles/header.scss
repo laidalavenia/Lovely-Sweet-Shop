@@ -1,0 +1,65 @@
+.search-box {
+  width: 500px;
+  height: 40px;
+  background-color: #fce9e9;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #461a0f;
+  display: flex;
+  align-items: center;
+  margin-left: 7rem;
+
+  .form-input {
+    background-color: #fce9e9;
+    height: 20px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin-top: 10px 10px;
+  }
+
+  .icon-search {
+    margin-right: 2rem;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+}
+
+.icon-navright {
+  cursor: pointer;
+  margin-left: 15rem;
+}
+
+//Row kedua
+.row-menu {
+  display: flex;
+  padding: 2rem;
+  justify-content: center;
+  margin-left: 3rem;
+  font-weight: 600;
+  color: #461a0f;
+  cursor: pointer;
+
+  .navbar-menu {
+    vertical-align: middle;
+    margin-bottom: 3px;
+  }
+
+  .navbar-menu:hover {
+    cursor: pointer;
+  }
+
+  .navbar-menu-link {
+    text-decoration: none !important; /* Menghilangkan garis bawah */
+    color: inherit !important; /* Mewarisi warna teks */
+  }
+}
+
+.horizontal-line {
+  border-top: 1.5px solid #461a0f;
+  width: 100%;
+  position: absolute;
+}

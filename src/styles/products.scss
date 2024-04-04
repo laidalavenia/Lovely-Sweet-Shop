@@ -1,0 +1,47 @@
+.custom-badge-products {
+  background-color: #e48e29 !important;
+  width: 80px;
+  height: 30px;
+  border-radius: 20px;
+  align-content: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  z-index: 2;
+  margin-left: -2rem;
+  margin-top: 1rem;
+}
+
+.card-title-products,
+.price-tag-products {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.weight-tag-products {
+  color: #858181;
+  font-size: 13px;
+}
+
+.btn-chart-products,
+.btn-chart-products:hover,
+.btn-chart-products:active {
+  background-color: #e42a2a;
+  border-color: #e42a2a;
+  justify-content: center;
+  border-radius: 20px;
+  width: 200px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.btn-chart-products:hover {
+  background-color: #ff3636;
+  border-color: #ff3636;
+}
+
+.btn-chart-products:active {
+  background-color: #e42a2a !important;
+  border-color: #e42a2a !important;
+}
