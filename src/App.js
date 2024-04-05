@@ -10,7 +10,6 @@ function App() {
       <Route path='/' element={<HomepageContent />} />
       <Route path='/catalog' element={<Catalog />} />
       <Route path='/product-detail' element={<ProductDetail />} />
-      {/* <Route path='/footer' element={<Footer />} /> */}
     </Routes>
   );
 }
