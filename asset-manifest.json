@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Lovely-Sweet-Shop/static/css/main.ecdf1a5b.css",
+    "main.js": "/Lovely-Sweet-Shop/static/js/main.67682743.js",
+    "static/media/candy-choco.png": "/Lovely-Sweet-Shop/static/media/candy-choco.972ceb85bf504b0cff75.png",
+    "static/media/Vector-choco-about.png": "/Lovely-Sweet-Shop/static/media/Vector-choco-about.824ac50a68addd21ba39.png",
+    "static/media/gift-choco.png": "/Lovely-Sweet-Shop/static/media/gift-choco.7a48b3b4af43b611eb9e.png",
+    "static/media/choco-almond2.png": "/Lovely-Sweet-Shop/static/media/choco-almond2.e7fc7990afc196efc7ed.png",
+    "static/media/mastercard-logo.png": "/Lovely-Sweet-Shop/static/media/mastercard-logo.3883948bdcbe6bc53e1c.png",
+    "static/media/stack-chocolate.png": "/Lovely-Sweet-Shop/static/media/stack-chocolate.1d688d953dea2c73f906.png",
+    "static/media/bar-choco.png": "/Lovely-Sweet-Shop/static/media/bar-choco.f3af9419d0bbc1beb1aa.png",
+    "static/media/choco-1.png": "/Lovely-Sweet-Shop/static/media/choco-1.cbcf2c92a895004614b5.png",
+    "static/media/verifiedVisa-logo.png": "/Lovely-Sweet-Shop/static/media/verifiedVisa-logo.2380e3004e0a129a6949.png",
+    "static/media/peanut-choco.png": "/Lovely-Sweet-Shop/static/media/peanut-choco.ffcdf66175a672f55088.png",
+    "static/media/choco-2.png": "/Lovely-Sweet-Shop/static/media/choco-2.c404bf3a7c67becdb9a4.png",
+    "static/media/choco-3.png": "/Lovely-Sweet-Shop/static/media/choco-3.923f5d7fafd5a9cbf8ab.png",
+    "static/media/logo-sweetshop.png": "/Lovely-Sweet-Shop/static/media/logo-sweetshop.103a030b0780a0b294c6.png",
+    "static/media/Vector-1.png": "/Lovely-Sweet-Shop/static/media/Vector-1.b6b5a0a773bb9527c575.png",
+    "static/media/Vector-line-about.png": "/Lovely-Sweet-Shop/static/media/Vector-line-about.37289e6e072217bca2f2.png",
+    "index.html": "/Lovely-Sweet-Shop/index.html",
+    "main.ecdf1a5b.css.map": "/Lovely-Sweet-Shop/static/css/main.ecdf1a5b.css.map",
+    "main.67682743.js.map": "/Lovely-Sweet-Shop/static/js/main.67682743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecdf1a5b.css",
+    "static/js/main.67682743.js"
+  ]
+}
