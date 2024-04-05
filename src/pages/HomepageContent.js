@@ -15,7 +15,7 @@ import Choco3 from "../assets/images/choco-3.png";
 
 const HomepageContent = () => {
   return (
-    <div className='Homepage'>
+    <div className='HomepageContent'>
       <Header />
       <Row
         style={{

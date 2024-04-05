@@ -1,0 +1,94 @@
+.box-wrapper-reviews {
+  margin-top: 6rem;
+  border-radius: 20px;
+  background-color: #fadcdc;
+  padding: 1rem;
+  margin-left: 5rem;
+  height: 150px;
+  width: 480px;
+}
+
+p,
+.icon-star {
+  margin-left: 1.5rem;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.box-wrapper-reviews-2 {
+  margin-top: 2rem;
+  border-radius: 20px;
+  background-color: #fadcdc;
+  padding: 1rem;
+  margin-left: -1rem;
+  height: 180px;
+  width: 480px;
+}
+
+.box-wrapper-reviews-3 {
+  margin-top: 1rem;
+  border-radius: 20px;
+  background-color: #fadcdc;
+  padding: 1rem;
+  margin-left: -1rem;
+  height: 150px;
+  width: 480px;
+}
+
+.btn-more {
+  color: #461a0f;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-left: 12rem;
+  box-sizing: border-box;
+  border: 2px solid #461a0f;
+  border-radius: 20px;
+  width: 100px;
+  height: fit-content;
+  text-align: center; /* Untuk menengahkan teks secara horizontal */
+  line-height: 0.5;
+
+  p {
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+}
+
+.box-wrapper-feedback {
+  margin-top: 6rem;
+  border-radius: 20px;
+  background-color: #fadcdc;
+  padding: 1rem;
+  margin-left: 5rem;
+  height: 550px;
+  width: 480px;
+}
+
+.form-feddback {
+  margin-top: 3rem;
+}
+
+.btn-feedback,
+.btn-feedback:hover,
+.btn-feedback:active {
+  background-color: #e42a2a;
+  border-color: #e42a2a;
+  justify-content: center;
+  border-radius: 20px;
+  width: 25rem;
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.btn-feedback:hover {
+  background-color: #ff3636;
+  border-color: #ff3636;
+}
+
+.btn-feedback:active {
+  background-color: #e42a2a !important;
+  border-color: #e42a2a !important;
+}

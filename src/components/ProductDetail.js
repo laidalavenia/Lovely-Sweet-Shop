@@ -13,6 +13,7 @@ import {
 import Vector3 from "../assets/images/Vector-3.png";
 import Product1 from "../assets/images/products/choco-almond2.png";
 import { GrFavorite } from "react-icons/gr";
+import { Link } from "react-router-dom";
 
 const ProductDetail = () => {
   const [count, setCount] = useState(0);
@@ -36,7 +37,7 @@ const ProductDetail = () => {
             Black Chocolate with Almond
           </Breadcrumb.Item>
         </Breadcrumb>
-        <h2 style={{ fontSize: "35px", fontWeight: "bold", marginTop: "2rem" }}>
+        <h2 style={{color: "#461a0f", fontSize: "35px", fontWeight: "bold", marginTop: "2rem" }}>
           Black Chocolate with Almond
         </h2>
 
@@ -168,9 +169,11 @@ const ProductDetail = () => {
             <div
               style={{ display: "flex", marginLeft: "4rem", marginTop: "2rem" }}
             >
-              <Button className='btn-chart-pd' style={{ height: "2.5rem" }}>
-                Add to Chart
-              </Button>
+              <Link to='/shopping-cart'>
+                <Button className='btn-chart-pd' style={{ height: "2.5rem" }}>
+                  Add to Chart
+                </Button>
+              </Link>
               <GrFavorite
                 style={{
                   width: "24px",

@@ -6,16 +6,16 @@ import { IoSearch } from "react-icons/io5";
 import { IoPersonOutline } from "react-icons/io5";
 import { MdFavoriteBorder } from "react-icons/md";
 import { HiOutlineShoppingBag } from "react-icons/hi2";
-import logoNavbar from "../assets/logo/logo-sweetshop.png";
+import logoHeader from "../assets/logo/logo-sweetshop.png";
 import { Link } from "react-router-dom";
 
 const Homepage = () => {
   return (
-    <div>
+    <div className='header'>
       <Row style={{ padding: "1rem", marginLeft: "50px" }}>
         <Col md={2}>
           <img
-            src={logoNavbar}
+            src={logoHeader}
             alt='logo-navbar'
             width={50}
             height={40}

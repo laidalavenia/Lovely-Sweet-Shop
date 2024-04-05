@@ -31,7 +31,7 @@ const Catalog = () => {
           <Breadcrumb.Item href='/'>Home</Breadcrumb.Item>
           <Breadcrumb.Item href='/catalog'>Chocolate Bars</Breadcrumb.Item>
         </Breadcrumb>
-        <h2 style={{ fontWeight: "bold" }}>Chocolate Bars</h2>
+        <h2 style={{color: "#461a0f", fontWeight: "bold" }}>Chocolate Bars</h2>
         <Row className='row-filter'>
           <Col md={6}>
             <div className='text-option-wrapper'>
