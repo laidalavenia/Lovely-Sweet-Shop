@@ -1,70 +1,122 @@
-# Getting Started with Create React App
+<p align="center">
+   <img width="300" height="300" src="./src/assets/images/readme/logo-sweet-shop--1.png />
+   <h2 align="center">Lovely Sweet Shop</h2>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <a href="https://github.com/laidalavenia/Lovely-Sweet-Shop/issues"><img src="https://img.shields.io/github/issues/laidalavenia/Lovely-Sweet-Shop" alt="GitHub issues"></a>
+    <a href="https://github.com/laidalavenia/Lovely-Sweet-Shop"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/laidalavenia/Lovely-Sweet-Shop"></a>
+    <a href="https://github.com/laidalavenia/Lovely-Sweet-Shop/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/laidalavenia/Lovely-Sweet-Shop"></a>
+</p>
 
-## Available Scripts
+## Lovely Sweet Shop
 
-In the project directory, you can run:
+Lovely Sweets is an online sweet with a large collection of candies and chocolates.
 
-### `npm start`
+## Deployment Website :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://lovely-sweet-shop.vercel.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Design Inspiration by : https://www.behance.net/gallery/181021149/Online-Sweet-Shop-UXUI-Case-Study
 
-### `npm test`
+## Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This website was developed using tech stack :
 
-### `npm run build`
+- React (using create-react-app)
+- React Bootstrap (for styling)
+- SCSS (CSS preprocessor)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Run Locally
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone the project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+    git clone https://github.com/laidalavenia/Lovely-Sweet-Shop.git
+```
 
-### `npm run eject`
+Go to the project directory
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+    cd Lovely-Sweet-Shop
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install depedencies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+    npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Start the server
 
-## Learn More
+```bash
+    npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Website View
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Homepage
 
-### Code Splitting
+<p align="center">
+    <img src="./src/assets/images/readme/Homepage-1.png />
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="center">
+    <img src="./src/assets/images/readme/Homepage-2.png/>
+</p>
 
-### Analyzing the Bundle Size
+<p align="center">
+    <img src="./src/assets/images/readme/Homepage-3.png />
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p align="center">
+    <img src="./src/assets/images/readme/Homepage-4.png />
+</p>
 
-### Making a Progressive Web App
+<p align="center">
+    <img src="./src/assets/images/readme/Homepage-5.png />
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+2. Catalog Page
 
-### Advanced Configuration
+<p align="center">
+    <img src="./src/assets/images/readme/Catalog-1.png />
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="center">
+    <img src="./src/assets/images/readme/Catalog-2.png />
+</p>
 
-### Deployment
+<p align="center">
+    <img src="./src/assets/images/readme/Catalog-3.png />
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+3. Product Page
 
-### `npm run build` fails to minify
+Show detail product
+<p align="center">
+    <img src="./src/assets/images/readme/Product-Detail-1.png />
+<p align="center">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+    <img src="./src/assets/images/readme/Product Detail-2.png/>
+</p>
+
+4. Checkout
+
+<p align="center">
+    <img src="./src/assets/images/readme/Checkout.png />
+</p>
+
+5. Shopping Cart
+
+<p align="center">
+    <img src="./src/assets/images/readme/Shopping-Cart.png />
+</p>
+
+6. Success Order
+
+<p align="center">
+    <img src="./src/assets/images/readme/Success-Order.png />
+</p>
+
