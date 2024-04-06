@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/cardProducts.scss";
 import { Row, Col, Button, Card, Badge } from "react-bootstrap";
 import Produk from "../assets/images/stack-chocolate.png";
-import Vector3 from "../assets/images/Vector-3.png";
+import Vector3 from "../assets/images/vector/Vector-3.png";
 
 const CardProducts = () => {
   return (

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "../styles/shoppingCart.scss";
 import Header from "../components/Header";
 import Product1 from "../assets/images/products/choco-almond2.png";
-import Vector3 from "../assets/images/Vector-3.png";
+import Vector3 from "../assets/images/vector/Vector-3.png";
 import {
   Container,
   Row,
@@ -50,7 +50,7 @@ const ShoppingCart = () => {
     <div className='ShoppingCart'>
       <Header />
       <Container style={{ padding: "6rem" }}>
-        <h2 style={{ fontWeight: "bold", color: "#461a0f" }}>ShoppingCart</h2>
+        <h2 style={{ fontWeight: "bold", color: "#461a0f" }}>Shopping Cart</h2>
         <Row className='header-shoppingcart'>
           <Col md={4}>
             <p>Product</p>

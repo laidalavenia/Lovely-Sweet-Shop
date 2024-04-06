@@ -5,6 +5,7 @@ import Catalog from "./pages/Catalog";
 import ProductDetail from "./pages/ProductDetail";
 import ShoppingCart from "./pages/ShoppingCart";
 import Checkout from "./pages/Checkout";
+import SuccessOrder from "./pages/SuceessOrder";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Route path='/product-detail' element={<ProductDetail />} />
       <Route path='/shopping-cart' element={<ShoppingCart />} />
       <Route path='/checkout' element={<Checkout />} />
+      <Route path='/success-order' element={<SuccessOrder />} />
     </Routes>
   );
 }

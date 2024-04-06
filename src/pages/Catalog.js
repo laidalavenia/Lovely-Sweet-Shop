@@ -16,7 +16,7 @@ import { RxCross2 } from "react-icons/rx";
 import { MdKeyboardArrowDown } from "react-icons/md";
 import { IoRemoveOutline } from "react-icons/io5";
 import { GrFavorite } from "react-icons/gr";
-import Vector3 from "../assets/images/Vector-3.png";
+import Vector3 from "../assets/images/vector/Vector-3.png";
 import Product1 from "../assets/images/products/choco-almond2.png";
 import Products from "../components/Products";
 import NewsLetter from "../components/NewsLetter";

@@ -53,8 +53,8 @@
   }
 
   .navbar-menu-link {
-    text-decoration: none !important; /* Menghilangkan garis bawah */
-    color: inherit !important; /* Mewarisi warna teks */
+    text-decoration: none !important;
+    color: inherit !important;
   }
 }
 
@@ -62,4 +62,5 @@
   border-top: 1.5px solid #461a0f;
   width: 100%;
   position: absolute;
+  height: 100px;
 }

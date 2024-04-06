@@ -42,6 +42,7 @@ const Categories = () => {
                 marginLeft: "20px",
                 marginRight: "20px",
                 marginTop: "120px",
+                color: "#461a0f",
               }}
             >
               Candy
@@ -66,6 +67,7 @@ const Categories = () => {
                 marginLeft: "20px",
                 // marginRight: "20px",
                 marginTop: "120px",
+                color: "#461a0f",
               }}
             >
               Diet Sweets
@@ -92,6 +94,7 @@ const Categories = () => {
                 marginLeft: "8px",
                 // marginRight: "20px",
                 marginTop: "120px",
+                color: "#461a0f",
               }}
             >
               Chocolate Bar
@@ -116,6 +119,7 @@ const Categories = () => {
                 marginLeft: "20px",
                 // marginRight: "20px",
                 marginTop: "120px",
+                color: "#461a0f",
               }}
             >
               Gift Sweets

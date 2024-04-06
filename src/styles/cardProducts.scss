@@ -50,13 +50,17 @@
   border-color: #e42a2a !important;
 }
 
-.card-title-cardProducts,
-.price-tag-cardProducts {
+.card-title-cardProducts {
   font-weight: bold;
   font-size: 15px;
+}
+
+.price-tag-cardProducts {
+  transform: translateX(-1.5rem);
 }
 
 .weight-tag-cardProducts {
   color: #858181;
   font-size: 13px;
+  transform: translateX(-1.5rem);
 }

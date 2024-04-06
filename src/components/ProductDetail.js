@@ -10,7 +10,7 @@ import {
   InputGroup,
   FormControl,
 } from "react-bootstrap";
-import Vector3 from "../assets/images/Vector-3.png";
+import Vector3 from "../assets/images/vector/Vector-3.png";
 import Product1 from "../assets/images/products/choco-almond2.png";
 import { GrFavorite } from "react-icons/gr";
 import { Link } from "react-router-dom";

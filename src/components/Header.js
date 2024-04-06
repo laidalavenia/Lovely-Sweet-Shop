@@ -14,13 +14,15 @@ const Homepage = () => {
     <div className='header'>
       <Row style={{ padding: "1rem", marginLeft: "50px" }}>
         <Col md={2}>
-          <img
-            src={logoHeader}
-            alt='logo-navbar'
-            width={50}
-            height={40}
-            style={{ marginLeft: "5rem" }}
-          />
+          <a href='/'>
+            <img
+              src={logoHeader}
+              alt='logo-navbar'
+              width={50}
+              height={40}
+              style={{ marginLeft: "5rem" }}
+            />
+          </a>
         </Col>
         <Col md={6}>
           <div className='search-box'>
@@ -78,7 +80,7 @@ const Homepage = () => {
           <MdKeyboardArrowDown className='navbar-menu' />
         </Col>
       </Row>
-      <div class='horizontal-line'></div>
+      <div class='horizontal-line' />
     </div>
   );
 };
