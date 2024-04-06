@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="300" height="300" src="./src/assets/images/readme/logo-sweet-shop--1.png />
+   <img width="300" height="300" src="src/assets/images/readme/logo-sweet-shop--1.png />
    <h2 align="center">Lovely Sweet Shop</h2>
 </p>
 
@@ -13,7 +13,7 @@
 
 Lovely Sweets is an online sweet with a large collection of candies and chocolates.
 
-## Deployment Website :
+## Deployment Website
 
 https://lovely-sweet-shop.vercel.app/
 
@@ -58,65 +58,65 @@ Start the server
 1. Homepage
 
 <p align="center">
-    <img src="./src/assets/images/readme/Homepage-1.png />
+    <img src="src/assets/images/readme/Homepage-1.png />
 </p>
 
 <p align="center">
-    <img src="./src/assets/images/readme/Homepage-2.png/>
+    <img src="src/assets/images/readme/Homepage-2.png/>
 </p>
 
 <p align="center">
-    <img src="./src/assets/images/readme/Homepage-3.png />
+    <img src="src/assets/images/readme/Homepage-3.png />
 </p>
 
 <p align="center">
-    <img src="./src/assets/images/readme/Homepage-4.png />
+    <img src="src/assets/images/readme/Homepage-4.png />
 </p>
 
 <p align="center">
-    <img src="./src/assets/images/readme/Homepage-5.png />
+    <img src="src/assets/images/readme/Homepage-5.png />
 </p>
 
 2. Catalog Page
 
 <p align="center">
-    <img src="./src/assets/images/readme/Catalog-1.png />
+    <img src="src/assets/images/readme/Catalog-1.png />
 </p>
 
 <p align="center">
-    <img src="./src/assets/images/readme/Catalog-2.png />
+    <img src="src/assets/images/readme/Catalog-2.png />
 </p>
 
 <p align="center">
-    <img src="./src/assets/images/readme/Catalog-3.png />
+    <img src="src/assets/images/readme/Catalog-3.png />
 </p>
 
 3. Product Page
 
 Show detail product
+
 <p align="center">
-    <img src="./src/assets/images/readme/Product-Detail-1.png />
+    <img src="src/assets/images/readme/Product-Detail-1.png />
 <p align="center">
 
 <p align="center">
-    <img src="./src/assets/images/readme/Product Detail-2.png/>
+    <img src="src/assets/images/readme/Product Detail-2.png/>
 </p>
 
 4. Checkout
 
 <p align="center">
-    <img src="./src/assets/images/readme/Checkout.png />
+    <img src="src/assets/images/readme/Checkout.png />
 </p>
 
 5. Shopping Cart
 
 <p align="center">
-    <img src="./src/assets/images/readme/Shopping-Cart.png />
+    <img src="src/assets/images/readme/Shopping-Cart.png />
 </p>
 
 6. Success Order
 
 <p align="center">
-    <img src="./src/assets/images/readme/Success-Order.png />
+    <img src="src/assets/images/readme/Success-Order.png />
 </p>
-
