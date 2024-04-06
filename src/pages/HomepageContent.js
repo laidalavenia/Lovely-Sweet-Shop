@@ -7,7 +7,7 @@ import BestSeller from "../components/BestSeller";
 import About from "../components/About";
 import Footer from "../components/Footer";
 import Vector1 from "../assets/images/vector/Vector-1.png";
-import Vector2 from "../assets/images/vector/Vector-1.png";
+import Vector2 from "../assets/images/vector/Vector-2.png";
 import Vector3 from "../assets/images/vector/Vector-3.png";
 import Choco1 from "../assets/images/choco-1.png";
 import Choco2 from "../assets/images/choco-2.png";
@@ -74,6 +74,8 @@ const HomepageContent = () => {
                 bottom: 0,
                 zIndex: 2,
                 marginBottom: "-5rem",
+                height: "28rem",
+                width: "28rem",
               }}
             />
             <img
