@@ -55,7 +55,7 @@ Start the server
 
 ## Website View
 
-1. Homepage
+<h2 align="center">1. Homepage</h2>
 
 <p align="center">
     <img src="src/assets/images/readme/Homepage-1.png" />
@@ -77,7 +77,7 @@ Start the server
     <img src="src/assets/images/readme/Homepage-5.png"/>
 </p>
 
-2. Catalog Page
+<h2 align="center">2. Catalog Page</h2>
 
 <p align="center">
     <img src="src/assets/images/readme/Catalog-1.png"/>
@@ -91,7 +91,7 @@ Start the server
     <img src="src/assets/images/readme/Catalog-3.png" />
 </p>
 
-3. Product Page
+<h2 align="center">3. Product Page</h2>
 
 Show detail product
 
@@ -103,19 +103,19 @@ Show detail product
     <img src="src/assets/images/readme/Product Detail-2.png"/>
 </p>
 
-4. Checkout
+<h2 align="center">4. Checkout</h2>
 
 <p align="center">
     <img src="src/assets/images/readme/Checkout.png"/>
 </p>
 
-5. Shopping Cart
+<h2 align="center">5. Shopping Cart</h2>
 
 <p align="center">
     <img src="src/assets/images/readme/Shopping-Cart.png"/>
 </p>
 
-6. Success Order
+<h2 align="center">6. Success Order</h2>
 
 <p align="center">
     <img src="src/assets/images/readme/Success-Order.png" />
